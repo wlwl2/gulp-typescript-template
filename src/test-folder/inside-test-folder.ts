@@ -1,4 +1,7 @@
-function hello(compiler: string) {
-    console.log(`Hello from ${compiler}`)
+function hello (compiler: string) {
+  console.log(`Hello from ${compiler}`)
 }
+
 hello('TypeScript')
+
+const test: string = "test" 
