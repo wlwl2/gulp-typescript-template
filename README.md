@@ -1,5 +1,7 @@
 # gulp-typescript-template
 
+Gulp ^4.0.0 and TypeScript ^3.5.3.
+
 ## Getting Started
 
 1. Edit `.ts` files in the `src/` directory and then:
